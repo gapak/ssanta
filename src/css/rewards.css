@@ -1,0 +1,16 @@
+.reward_popup {
+    box-sizing: border-box;
+    padding: 10px;
+    background-color:rgba(42,0,0,0.666);
+    color: #BCC5D6;
+    text-align: center;
+    /* font-family: Helvetica, Arial, Sans-Serif; */
+    font-weight: 100;
+    width: 100%;
+    height: 80%;
+    position:fixed;
+    bottom: 10%;
+    z-index:60000;
+    font-size: 18px;
+    max-width: 700px;
+}

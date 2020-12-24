@@ -1,0 +1,36 @@
+.footer {
+     box-sizing: border-box;
+     padding: 10px;
+     background-color:rgba(42,0,0,0.666);
+     color: #BCC5D6;
+     text-align: center;
+     /* font-family: Helvetica, Arial, Sans-Serif; */
+     font-weight: 100;
+     width: 100%;
+     position:fixed;
+     bottom:0;
+     z-index:50000;
+     font-size: 18px;
+     max-width: 700px;
+ }
+
+.footer a {
+    color: #cfd2dc;
+    text-decoration: none;
+}
+
+.footer a:hover {
+    background-color: rgba(92, 20, 19, 0.72);
+    color: #EBEEF5;
+}
+
+
+.footer a img {
+    width: 0px;
+    vertical-align: middle;
+    margin-top: -2px
+}
+
+a[href=""] {
+    display: none;
+}
