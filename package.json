@@ -1,0 +1,31 @@
+{
+  "name": "ssanta",
+  "version": "0.4.2",
+  "description": "Random God",
+  "dependencies": {
+    "classnames": "^2.2.5",
+    "lodash": "^4.17.5",
+    "react": "^16.3.2",
+    "react-bootstrap": "^0.32.1",
+    "react-dom": "^16.3.2",
+    "react-full-screen": "^0.2.3",
+    "react-scripts": "1.1.4",
+    "react-select": "^2.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gapak/ssanta.git"
+  },
+  "author": "Gapak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gapak/ssanta/issues"
+  },
+  "homepage": "https://github.com/gapak/ssanta#readme"
+}

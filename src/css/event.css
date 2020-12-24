@@ -1,0 +1,31 @@
+.event_trigger {
+    box-sizing: border-box;
+    padding: 10px;
+    background-color:rgba(42,0,0,0.666);
+    color: #BCC5D6;
+    text-align: center;
+    /* font-family: Helvetica, Arial, Sans-Serif; */
+    font-weight: 100;
+    width: 100%;
+    position:fixed;
+    bottom: 50%;
+    z-index:50000;
+    font-size: 18px;
+    max-width: 700px;
+}
+
+.event_popup {
+    box-sizing: border-box;
+    padding: 10px;
+    background-color:rgba(42,0,0,0.666);
+    color: #BCC5D6;
+    text-align: center;
+    /* font-family: Helvetica, Arial, Sans-Serif; */
+    font-weight: 100;
+    width: 100%;
+    position:fixed;
+    bottom: 50%;
+    z-index:50000;
+    font-size: 18px;
+    max-width: 700px;
+}
