@@ -40,7 +40,7 @@ class App extends Component {
     }
 
     componentDidMount() {
-        this.gin.loadGame('FirstSave');
+        this.gin.loadGame('SecondSave');
         this.gin.playGame();
     }
 
