@@ -97,6 +97,7 @@ class App extends Component {
                 <div className="flex-container-row panel">
                     <div className="flex-element">
                         {state.pass_error ? 'Ошибка при вводе пароля, Пес!' : ''}
+                        {state.old_pass_error ? 'Эй, это СТАРЫЙ пароль!' : ''}
                     </div>
                 </div>
             </div>;

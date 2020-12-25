@@ -13,6 +13,7 @@ export const default_state = {
     logged: false,
     current_pass: '',
     pass_error: false,
+    old_pass_error: false,
     
     
     event: false,
