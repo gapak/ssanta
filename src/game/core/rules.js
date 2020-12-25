@@ -27,7 +27,7 @@ export const rules = {
                 store.console_log.push(store.console_prelog.shift());
             }
             
-            if (store.console_log.length > 16) {
+            if (store.console_log.length > 18) {
                 store.console_log.shift();
             }
             
