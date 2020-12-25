@@ -74,9 +74,10 @@ export var people_test = [
 export var people = [
     {name: '@gromova',              family: 1, target: false},
     {name: '@yuradanilov',          family: 1, target: false},
-    {name: '@Aldekein',             family: 2, target: false},
-    {name: '@ezhova',               family: 2, target: false},
+  //{name: '@Aldekein',             family: 2, target: false},
+  //{name: '@ezhova',               family: 2, target: false},
     {name: '@gresss',               family: 3, target: false},
     {name: '@alexxspike',           family: 4, target: false},
     {name: '@marmeladnoe_yabloko',  family: 5, target: false},
+    {name: '@alexshendryk',         family: 6, target: false},
 ];
